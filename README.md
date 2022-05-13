@@ -6,7 +6,7 @@
 
 ---
 
-#Excel file generated.
+# 1.Excel file generated.
 Tab1 named = Category2
 
 content:
@@ -32,7 +32,7 @@ content:
 
 ---
 
-#2 Json files generated, category based
+# 2.Two Json files generated, category based
 
 1st file content:
 
