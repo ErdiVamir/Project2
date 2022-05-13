@@ -43,5 +43,5 @@ content:
 2nd file content:
 
 {"tests":[{"status": PASS, "testKey": "Test-2001"}
-{"status": Fail, "testKey": "Test-2001"}
+{"status": FAIL, "testKey": "Test-2001"}
 ]}
