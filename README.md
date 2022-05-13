@@ -36,12 +36,12 @@ content:
 
 1st file content:
 
-{"tests":[{"status": PASS, "testKey": "Test-1001"}
+{"tests":[{"status": PASS, "testKey": "Test-1001"},
 {"status": PASS, "testKey": "Test-1002"}
 ]}
 
 2nd file content:
 
-{"tests":[{"status": PASS, "testKey": "Test-2001"}
+{"tests":[{"status": PASS, "testKey": "Test-2001"},
 {"status": FAIL, "testKey": "Test-2001"}
 ]}
